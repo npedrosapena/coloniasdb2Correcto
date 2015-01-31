@@ -1,0 +1,27 @@
+
+/* 
+    Created on : 29-dic-2014, 15:24:17
+    Author     : nelson
+*/
+
+#wrapper{
+    width:100%;
+    text-align: center;
+}
+
+#wrapper img{
+   margin-top: 200px;
+}
+
+#access_form{
+    margin: 10px auto;
+    width: 45%;
+}
+
+.inputs{
+    padding: 2px 45px;
+}
+
+#btn_access{
+    margin-top: 15px;
+}

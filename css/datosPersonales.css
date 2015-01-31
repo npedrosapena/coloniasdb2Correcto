@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 03-ene-2015, 13:06:06
+    Author     : nelson
+*/
+
+body{
+ font-family: "Open Sans", Arial, sans-serif;
+ font-size: 14px;
+ font-weight: 350;
+ color: #333;
+}
+
+input, select{
+ width: 98%;
+ height: 40px;
+ font: 300 24px "Open Sans", Arial, sans-serif;
+ margin: 5px 0 10px 0;
+ box-shadow: 0 0 3px black;
+ 
+ -moz-transition: all 0.2s ease-out;
+-o-transition: all 0.2s ease-out;
+-webkit-transition: all 0.2s ease-out;
+-ms-transition: all 0.2s ease-out;
+transition: all 0.2s ease-out;
+
+}
+
+select{
+    height: 130px;
+}
+input[type=submit]{
+ background-color:#404040;
+ height:50px;
+ width:98%;
+ //border:none;
+ font-weight:400;
+ letter-spacing:2px;
+ color:#FFFFFF;
+}
+
+h2{
+ font-size: 80px;
+ color: black;
+ text-shadow: 5px 5px 5px #404040;
+ font-family: "Open Sans";
+ border-bottom: 2px solid #FFF;
+ text-align: center;
+ margin: 0 0 5px 0;
+}
+
+#formulario_datos_personales{
+ padding: 0 5px;
+ width: 470px;
+ height: auto;
+ /*backgroud-image: url(aquí la ruta de la imagen de fondo);*/
+ margin: 0 auto;
+ padding: 0 1%;
+ /*box-shadow: 5px 5px 0 #AAA;
+ border-radius: 5px;*/
+}
+

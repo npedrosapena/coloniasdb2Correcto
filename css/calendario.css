@@ -1,0 +1,17 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18-ene-2015, 17:53:29
+    Author     : nelson
+*/
+
+/*widget*/
+.ui-widget { font-family: Verdana,Arial,sans-serif; font-size: .9em; }
+ 
+/*datepicket*/
+.ui-datepicker { width: 27%; padding: .1em .1em 0; }
+.ui-datepicker table {width: 100%; font-size: 0.8em; border-collapse: collapse; margin:0 0 .4em; }
+
